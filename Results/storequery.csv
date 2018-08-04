@@ -1,0 +1,600 @@
+store_id,city,country
+1,"A Corua (La Corua)",Spain
+1,Abha,"Saudi Arabia"
+1,"Abu Dhabi","United Arab Emirates"
+1,Acua,Mexico
+2,Adana,Turkey
+2,"Addis Abeba",Ethiopia
+2,Aden,Yemen
+1,Adoni,India
+1,Ahmadnagar,India
+2,Akishima,Japan
+1,Akron,"United States"
+1,al-Ayn,"United Arab Emirates"
+2,al-Hawiya,"Saudi Arabia"
+2,al-Manama,Bahrain
+2,al-Qadarif,Sudan
+1,al-Qatif,"Saudi Arabia"
+2,Alessandria,Italy
+1,"Allappuzha (Alleppey)",India
+1,Allende,Mexico
+2,"Almirante Brown",Argentina
+2,Alvorada,Brazil
+1,Ambattur,India
+1,Amersfoort,Netherlands
+1,Amroha,India
+2,"Angra dos Reis",Brazil
+1,Anpolis,Brazil
+1,Antofagasta,Chile
+1,"Aparecida de Goinia",Brazil
+2,Apeldoorn,Netherlands
+2,Araatuba,Brazil
+2,Arak,Iran
+2,Arecibo,"Puerto Rico"
+1,Arlington,"United States"
+1,Ashdod,Israel
+2,Ashgabat,Turkmenistan
+1,Ashqelon,Israel
+2,Asuncin,Paraguay
+1,Athenai,Greece
+1,Atinsk,"Russian Federation"
+2,Atlixco,Mexico
+1,"Augusta-Richmond County","United States"
+1,Aurora,"United States"
+2,Aurora,"United States"
+1,Avellaneda,Argentina
+1,Bag,Brazil
+1,"Baha Blanca",Argentina
+2,Baicheng,China
+2,Baiyin,China
+2,Baku,Azerbaijan
+2,Balaiha,"Russian Federation"
+1,Balikesir,Turkey
+1,Balurghat,India
+1,Bamenda,Cameroon
+2,"Bandar Seri Begawan",Brunei
+2,Banjul,Gambia
+2,Barcelona,Venezuela
+2,Basel,Switzerland
+2,"Bat Yam",Israel
+1,Batman,Turkey
+1,Batna,Algeria
+2,Battambang,Cambodia
+1,Baybay,Philippines
+1,Bayugan,Philippines
+2,Bchar,Algeria
+2,Beira,Mozambique
+2,Bellevue,"United States"
+1,Belm,Brazil
+1,Benguela,Angola
+1,Beni-Mellal,Morocco
+1,"Benin City",Nigeria
+2,Bergamo,Italy
+2,"Berhampore (Baharampur)",India
+1,Bern,Switzerland
+1,Bhavnagar,India
+2,Bhilwara,India
+2,Bhimavaram,India
+1,Bhopal,India
+2,Bhusawal,India
+1,Bijapur,India
+2,Bilbays,Egypt
+1,Binzhou,China
+1,Birgunj,Nepal
+1,Bislig,Philippines
+1,Blumenau,Brazil
+1,"Boa Vista",Brazil
+1,Boksburg,"South Africa"
+2,Botosani,Romania
+2,Botshabelo,"South Africa"
+2,Bradford,"United Kingdom"
+1,Braslia,Brazil
+1,Bratislava,Slovakia
+1,Brescia,Italy
+1,Brest,France
+2,Brindisi,Italy
+1,Brockton,"United States"
+2,Bucuresti,Romania
+1,Buenaventura,Colombia
+1,Bydgoszcz,Poland
+1,Cabuyao,Philippines
+2,Callao,Peru
+2,"Cam Ranh",Vietnam
+2,"Cape Coral","United States"
+1,Caracas,Venezuela
+2,Carmen,Mexico
+2,Cavite,Philippines
+2,Cayenne,"French Guiana"
+1,Celaya,Mexico
+2,Chandrapur,India
+2,Changhwa,Taiwan
+2,Changzhou,China
+1,Chapra,India
+1,"Charlotte Amalie","Virgin Islands, U.S."
+1,Chatsworth,"South Africa"
+2,Cheju,"South Korea"
+2,Chiayi,Taiwan
+1,Chisinau,Moldova
+2,Chungho,Taiwan
+1,Cianjur,Indonesia
+2,Ciomas,Indonesia
+2,Ciparay,Indonesia
+2,"Citrus Heights","United States"
+2,"Citt del Vaticano","Holy See (Vatican City State)"
+2,"Ciudad del Este",Paraguay
+1,Clarksville,"United States"
+1,"Coacalco de Berriozbal",Mexico
+1,Coatzacoalcos,Mexico
+1,Compton,"United States"
+1,Coquimbo,Chile
+2,Crdoba,Argentina
+2,Cuauhtmoc,Mexico
+2,Cuautla,Mexico
+2,Cuernavaca,Mexico
+2,Cuman,Venezuela
+1,Czestochowa,Poland
+2,Dadu,Pakistan
+2,Dallas,"United States"
+1,Datong,China
+2,Daugavpils,Latvia
+2,Davao,Philippines
+2,Daxian,China
+2,Dayton,"United States"
+2,"Deba Habe",Nigeria
+2,Denizli,Turkey
+1,Dhaka,Bangladesh
+1,"Dhule (Dhulia)",India
+1,Dongying,China
+2,"Donostia-San Sebastin",Spain
+2,"Dos Quebradas",Colombia
+2,Duisburg,Germany
+1,Dundee,"United Kingdom"
+1,Dzerzinsk,"Russian Federation"
+1,Ede,Netherlands
+1,Effon-Alaiye,Nigeria
+2,"El Alto",Bolivia
+1,"El Fuerte",Mexico
+1,"El Monte","United States"
+1,Elista,"Russian Federation"
+1,Emeishan,China
+2,Emmen,Netherlands
+2,Enshi,China
+1,Erlangen,Germany
+1,Escobar,Argentina
+1,Esfahan,Iran
+2,Eskisehir,Turkey
+1,Etawah,India
+2,Ezeiza,Argentina
+2,Ezhou,China
+2,Faaa,"French Polynesia"
+2,Fengshan,Taiwan
+1,Firozabad,India
+1,Florencia,Colombia
+1,Fontana,"United States"
+1,Fukuyama,Japan
+1,Funafuti,Tuvalu
+1,Fuyu,China
+2,Fuzhou,China
+1,Gandhinagar,India
+2,"Garden Grove","United States"
+2,Garland,"United States"
+1,Gatineau,Canada
+1,Gaziantep,Turkey
+2,Gijn,Spain
+1,Gingoog,Philippines
+2,Goinia,Brazil
+1,Gorontalo,Indonesia
+1,"Grand Prairie","United States"
+1,Graz,Austria
+1,Greensboro,"United States"
+1,Guadalajara,Mexico
+2,Guaruj,Brazil
+1,"guas Lindas de Gois",Brazil
+2,Gulbarga,India
+2,Hagonoy,Philippines
+2,Haining,China
+2,Haiphong,Vietnam
+2,Haldia,India
+2,Halifax,Canada
+2,Halisahar,India
+2,Halle/Saale,Germany
+2,Hami,China
+2,Hamilton,"New Zealand"
+1,Hanoi,Vietnam
+2,Hidalgo,Mexico
+1,Higashiosaka,Japan
+2,Hino,Japan
+2,Hiroshima,Japan
+1,Hodeida,Yemen
+1,Hohhot,China
+2,Hoshiarpur,India
+2,Hsichuh,Taiwan
+2,Huaian,China
+2,Hubli-Dharwad,India
+2,"Huejutla de Reyes",Mexico
+1,Huixquilucan,Mexico
+2,Hunuco,Peru
+2,Ibirit,Brazil
+2,Idfu,Egypt
+1,Ife,Nigeria
+2,Ikerre,Nigeria
+1,Iligan,Philippines
+1,Ilorin,Nigeria
+2,Imus,Philippines
+2,Inegl,Turkey
+2,Ipoh,Malaysia
+2,Isesaki,Japan
+1,Ivanovo,"Russian Federation"
+1,Iwaki,Japan
+1,Iwakuni,Japan
+1,Iwatsuki,Japan
+1,Izumisano,Japan
+1,Jaffna,"Sri Lanka"
+1,Jaipur,India
+2,Jakarta,Indonesia
+1,"Jalib al-Shuyukh",Kuwait
+2,Jamalpur,Bangladesh
+2,Jaroslavl,"Russian Federation"
+1,Jastrzebie-Zdrj,Poland
+2,Jedda,"Saudi Arabia"
+1,Jelets,"Russian Federation"
+1,Jhansi,India
+1,Jinchang,China
+1,Jining,China
+1,Jinzhou,China
+2,Jodhpur,India
+1,Johannesburg,"South Africa"
+1,Joliet,"United States"
+1,"Jos Azueta",Mexico
+1,"Juazeiro do Norte",Brazil
+1,"Juiz de Fora",Brazil
+2,Junan,China
+2,Jurez,Mexico
+1,Kabul,Afghanistan
+2,Kaduna,Nigeria
+1,Kakamigahara,Japan
+2,Kaliningrad,"Russian Federation"
+1,Kalisz,Poland
+1,Kamakura,Japan
+2,Kamarhati,India
+1,Kamjanets-Podilskyi,Ukraine
+2,Kamyin,"Russian Federation"
+1,Kanazawa,Japan
+2,Kanchrapara,India
+1,"Kansas City","United States"
+1,Karnal,India
+1,Katihar,India
+1,Kermanshah,Iran
+1,Kilis,Turkey
+1,Kimberley,"South Africa"
+2,Kimchon,"South Korea"
+1,Kingstown,"Saint Vincent and the Grenadines"
+1,Kirovo-Tepetsk,"Russian Federation"
+2,Kisumu,Kenya
+1,Kitwe,Zambia
+2,Klerksdorp,"South Africa"
+1,Kolpino,"Russian Federation"
+2,Konotop,Ukraine
+2,Koriyama,Japan
+1,Korla,China
+1,Korolev,"Russian Federation"
+1,"Kowloon and New Kowloon","Hong Kong"
+1,Kragujevac,Yugoslavia
+1,Ktahya,Turkey
+1,Kuching,Malaysia
+1,Kumbakonam,India
+2,Kurashiki,Japan
+1,Kurgan,"Russian Federation"
+2,Kursk,"Russian Federation"
+2,Kuwana,Japan
+2,"La Paz",Mexico
+1,"La Plata",Argentina
+2,"La Romana","Dominican Republic"
+2,Laiwu,China
+2,Lancaster,"United States"
+1,Laohekou,China
+2,Lapu-Lapu,Philippines
+2,Laredo,"United States"
+1,Lausanne,Switzerland
+2,"Le Mans",France
+1,Lengshuijiang,China
+2,Leshan,China
+2,Lhokseumawe,Indonesia
+1,Liaocheng,China
+2,Liepaja,Latvia
+1,Lilongwe,Malawi
+1,Lima,Peru
+1,Lincoln,"United States"
+1,Linz,Austria
+1,Lipetsk,"Russian Federation"
+2,Livorno,Italy
+2,Ljubertsy,"Russian Federation"
+1,Loja,Ecuador
+2,London,"United Kingdom"
+1,London,"United Kingdom"
+1,Lublin,Poland
+2,Lubumbashi,"Congo, The Democratic Republic of the"
+1,Lungtan,Taiwan
+2,Luzinia,Brazil
+1,Madiun,Indonesia
+1,Mahajanga,Madagascar
+1,Maikop,"Russian Federation"
+2,Malm,Sweden
+2,Manchester,"United States"
+1,Mandaluyong,Philippines
+1,"Mandi Bahauddin",Pakistan
+1,Mannheim,Germany
+1,Maracabo,Venezuela
+2,Mardan,Pakistan
+1,Maring,Brazil
+2,Masqat,Oman
+2,Matamoros,Mexico
+2,Matsue,Japan
+2,Meixian,China
+2,Memphis,"United States"
+1,Merlo,Argentina
+1,Mexicali,Mexico
+1,Miraj,India
+2,"Mit Ghamr",Egypt
+1,Miyakonojo,Japan
+1,Mogiljov,Belarus
+1,Molodetno,Belarus
+2,Monclova,Mexico
+2,Monywa,Myanmar
+2,Moscow,"Russian Federation"
+2,Mosul,Iraq
+2,Mukateve,Ukraine
+1,"Munger (Monghyr)",India
+1,Mwanza,Tanzania
+2,Mwene-Ditu,"Congo, The Democratic Republic of the"
+2,Myingyan,Myanmar
+1,Mysore,India
+1,Naala-Porto,Mozambique
+1,"Nabereznyje Telny","Russian Federation"
+2,Nador,Morocco
+1,Nagaon,India
+1,Nagareyama,Japan
+1,Najafabad,Iran
+1,Naju,"South Korea"
+1,"Nakhon Sawan",Thailand
+1,"Nam Dinh",Vietnam
+1,Namibe,Angola
+1,Nantou,Taiwan
+1,Nanyang,China
+1,NDjamna,Chad
+1,Newcastle,"South Africa"
+1,Nezahualcyotl,Mexico
+2,"Nha Trang",Vietnam
+1,Niznekamsk,"Russian Federation"
+1,"Novi Sad",Yugoslavia
+1,Novoterkassk,"Russian Federation"
+1,Nukualofa,Tonga
+1,Nuuk,Greenland
+2,Nyeri,Kenya
+2,"Ocumare del Tuy",Venezuela
+2,Ogbomosho,Nigeria
+1,Okara,Pakistan
+1,Okayama,Japan
+2,Okinawa,Japan
+2,Olomouc,"Czech Republic"
+1,Omdurman,Sudan
+2,Omiya,Japan
+1,Ondo,Nigeria
+1,Onomichi,Japan
+1,Oshawa,Canada
+2,Osmaniye,Turkey
+2,ostka,Ukraine
+1,Otsu,Japan
+1,Oulu,Finland
+2,"Ourense (Orense)",Spain
+2,Owo,Nigeria
+2,Oyo,Nigeria
+1,Ozamis,Philippines
+1,Paarl,"South Africa"
+1,"Pachuca de Soto",Mexico
+2,"Pak Kret",Thailand
+1,"Palghat (Palakkad)",India
+2,"Pangkal Pinang",Indonesia
+1,Papeete,"French Polynesia"
+1,Parbhani,India
+2,Pathankot,India
+2,Patiala,India
+1,Patras,Greece
+2,Pavlodar,Kazakstan
+1,Pemalang,Indonesia
+2,Peoria,"United States"
+2,Pereira,Colombia
+2,"Phnom Penh",Cambodia
+2,Pingxiang,China
+2,Pjatigorsk,"Russian Federation"
+2,Plock,Poland
+1,Po,Brazil
+2,Ponce,"Puerto Rico"
+2,Pontianak,Indonesia
+2,"Poos de Caldas",Brazil
+2,Portoviejo,Ecuador
+2,Probolinggo,Indonesia
+1,Pudukkottai,India
+2,Pune,India
+1,"Purnea (Purnia)",India
+1,Purwakarta,Indonesia
+2,Pyongyang,"North Korea"
+1,Qalyub,Egypt
+1,Qinhuangdao,China
+1,Qomsheh,Iran
+1,Quilmes,Argentina
+1,"Rae Bareli",India
+1,Rajkot,India
+1,Rampur,India
+1,Rancagua,Chile
+2,Ranchi,India
+2,"Richmond Hill",Canada
+1,"Rio Claro",Brazil
+2,Rizhao,China
+1,Roanoke,"United States"
+2,Robamba,Ecuador
+2,Rockford,"United States"
+1,Ruse,Bulgaria
+1,Rustenburg,"South Africa"
+1,s-Hertogenbosch,Netherlands
+1,Saarbrcken,Germany
+2,Sagamihara,Japan
+1,"Saint Louis","United States"
+1,Saint-Denis,Runion
+1,Sal,Morocco
+1,Salala,Oman
+2,Salamanca,Mexico
+1,Salinas,"United States"
+2,Salzburg,Austria
+2,Sambhal,India
+1,"San Bernardino","United States"
+2,"San Felipe de Puerto Plata","Dominican Republic"
+2,"San Felipe del Progreso",Mexico
+2,"San Juan Bautista Tuxtepec",Mexico
+1,"San Lorenzo",Paraguay
+1,"San Miguel de Tucumn",Argentina
+2,Sanaa,Yemen
+2,"Santa Brbara dOeste",Brazil
+1,"Santa F",Argentina
+2,"Santa Rosa",Philippines
+1,"Santiago de Compostela",Spain
+1,"Santiago de los Caballeros","Dominican Republic"
+2,"Santo Andr",Brazil
+1,Sanya,China
+1,Sasebo,Japan
+2,Satna,India
+2,Sawhaj,Egypt
+2,Serpuhov,"Russian Federation"
+1,"Shahr-e Kord",Iran
+2,Shanwei,China
+1,Shaoguan,China
+2,Sharja,"United Arab Emirates"
+1,Shenzhen,China
+1,Shikarpur,Pakistan
+1,Shimoga,India
+2,Shimonoseki,Japan
+1,Shivapuri,India
+1,"Shubra al-Khayma",Egypt
+1,Siegen,Germany
+1,"Siliguri (Shiliguri)",India
+1,Simferopol,Ukraine
+1,Sincelejo,Colombia
+2,Sirjan,Iran
+1,Sivas,Turkey
+1,Skikda,Algeria
+2,Smolensk,"Russian Federation"
+2,"So Bernardo do Campo",Brazil
+2,"So Leopoldo",Brazil
+1,Sogamoso,Colombia
+1,Sokoto,Nigeria
+2,Songkhla,Thailand
+1,Sorocaba,Brazil
+1,Soshanguve,"South Africa"
+1,Sousse,Tunisia
+2,"South Hill",Anguilla
+1,Southampton,"United Kingdom"
+2,Southend-on-Sea,"United Kingdom"
+2,Southport,"United Kingdom"
+1,Springs,"South Africa"
+2,"Stara Zagora",Bulgaria
+1,"Sterling Heights","United States"
+1,Stockport,"United Kingdom"
+2,Sucre,Bolivia
+1,Suihua,China
+1,Sullana,Peru
+1,Sultanbeyli,Turkey
+2,Sumqayit,Azerbaijan
+2,Sumy,Ukraine
+1,"Sungai Petani",Malaysia
+1,Sunnyvale,"United States"
+1,Surakarta,Indonesia
+2,Syktyvkar,"Russian Federation"
+1,Syrakusa,Italy
+1,Szkesfehrvr,Hungary
+2,Tabora,Tanzania
+2,Tabriz,Iran
+2,Tabuk,"Saudi Arabia"
+2,Tafuna,"American Samoa"
+2,Taguig,Philippines
+1,Taizz,Yemen
+1,Talavera,Philippines
+1,Tallahassee,"United States"
+1,Tama,Japan
+2,Tambaram,India
+1,Tanauan,Philippines
+1,Tandil,Argentina
+1,Tangail,Bangladesh
+2,Tanshui,Taiwan
+1,Tanza,Philippines
+1,Tarlac,Philippines
+2,Tarsus,Turkey
+2,Tartu,Estonia
+1,Teboksary,"Russian Federation"
+1,Tegal,Indonesia
+1,"Tel Aviv-Jaffa",Israel
+2,Tete,Mozambique
+2,Tianjin,China
+1,Tiefa,China
+2,Tieli,China
+1,Tokat,Turkey
+2,Tonghae,"South Korea"
+1,Tongliao,China
+1,Torren,Mexico
+1,Touliu,Taiwan
+1,Toulon,France
+2,Toulouse,France
+2,Trshavn,"Faroe Islands"
+1,Tsaotun,Taiwan
+2,Tsuyama,Japan
+1,Tuguegarao,Philippines
+1,Tychy,Poland
+1,Udaipur,India
+2,Udine,Italy
+1,Ueda,Japan
+1,Uijongbu,"South Korea"
+2,Uluberia,India
+2,Urawa,Japan
+2,Uruapan,Mexico
+1,Usak,Turkey
+2,Usolje-Sibirskoje,"Russian Federation"
+1,Uttarpara-Kotrung,India
+2,Vaduz,Liechtenstein
+1,Valencia,Venezuela
+1,"Valle de la Pascua",Venezuela
+1,"Valle de Santiago",Mexico
+1,Valparai,India
+1,Vancouver,Canada
+2,"Varanasi (Benares)",India
+2,"Vicente Lpez",Argentina
+2,Vijayawada,India
+1,"Vila Velha",Brazil
+1,Vilnius,Lithuania
+1,Vinh,Vietnam
+2,"Vitria de Santo Anto",Brazil
+1,Warren,"United States"
+1,Weifang,China
+1,Witten,Germany
+1,Wroclaw,Poland
+2,Xiangfan,China
+1,Xiangtan,China
+2,Xintai,China
+2,Xinxiang,China
+1,"Yamuna Nagar",India
+2,Yangor,Nauru
+1,Yantai,China
+2,Yaound,Cameroon
+1,Yerevan,Armenia
+1,Yinchuan,China
+2,Yingkou,China
+2,York,"United Kingdom"
+2,Yuncheng,China
+2,Yuzhou,China
+1,Zalantun,China
+2,Zanzibar,Tanzania
+2,Zaoyang,China
+1,Zapopan,Mexico
+2,Zaria,Nigeria
+1,Zeleznogorsk,"Russian Federation"
+1,Zhezqazghan,Kazakstan
+2,Zhoushan,China
+2,Ziguinchor,Senegal
